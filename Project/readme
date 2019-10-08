@@ -1,0 +1,29 @@
+**********DS 2 -Programming Assignment -3********
+
+********Submitted by - Meghana Kiran ********
+
+There are three java files and one input text file (named: input.txt ) 
+
+
+Question 1: DFS.java 
+
+-To compile: javac filename.java      ( e.g javac DFS.java)
+-To run: java filename  (e.g java DFS )
+
+-it will ask you to enter file name , enter the input file name (i.e input.txt )
+
+
+Question 2: TopologicalSort.java 
+
+-To compile: javac filename.java
+-To run: java filename
+
+-it will ask you to enter file name , enter the input file name (i.e input.txt )
+
+Question 3: SCC.java 
+
+-To compile: javac filename.java
+-To run: java filename
+
+-it will ask you to enter file name , enter the input file name (i.e input.txt )
+
